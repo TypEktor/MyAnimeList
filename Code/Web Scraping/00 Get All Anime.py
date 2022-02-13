@@ -6,9 +6,9 @@ import pandas as pd
 
 
 # Csv containing the link for each group of Anime. Each group contains 50 Anime 
-urlsFile = ".../Page Anime Urls.csv"
+urlsFile = ".../00 Page Anime Urls.csv"
 # Path for saving the link for each Anime
-Save_Path = ".../All Anime Urls.csv"
+Save_Path = ".../00 All Anime Urls.csv"
 
 
 # Function for getting the Data

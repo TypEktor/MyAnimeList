@@ -1,3 +1,3 @@
 # Dictionaries
 
-Dictionaries for each initia dataset
+Dictionaries for each initial dataset
